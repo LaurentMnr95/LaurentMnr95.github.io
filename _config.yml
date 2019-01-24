@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Laurent Meunier"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student at LAMSADE Paris Dauphine University and Facebook AI Research Paris"
+  location         : "Paris"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "laurentmnr95"
   google_plus      :
   keybase          :
   instagram        :
