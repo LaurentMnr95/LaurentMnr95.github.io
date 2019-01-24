@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Laurent Meunier"
   avatar           : "profile.jpg"
-  bio              : "PhD student at LAMSADE Paris Dauphine University and Facebook AI Research Paris"
+  bio              : "PhD student"
   location         : "Paris"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "FAIR / Paris Dauphine University"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
