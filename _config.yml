@@ -83,8 +83,8 @@ author:
   name             : "Laurent Meunier"
   avatar           : "profile.jpg"
   bio              : "PhD student"
-  location         : "Paris"
-  employer         : "FAIR / Paris Dauphine University"
+  location         : "Facebook"
+  employer         : "Paris Dauphine University"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "laurent.meunier1995@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/laurent-meunier-464476103/"
+  linkedin         : "laurent-meunier-464476103"
   orcid            :
   pinterest        :
   soundcloud       :
