@@ -2,6 +2,6 @@
 title: "Theoretical evidence for adversarial robustness through randomization: the case of the Exponential family"
 collection: publications
 date: 2019-10-01
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://arxiv.org/abs/1902.01148'
 ---
 [Download paper here](https://arxiv.org/abs/1902.01148)
